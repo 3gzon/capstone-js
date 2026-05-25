@@ -1,0 +1,20 @@
+# Dependencies (Crucial for Node/json-server projects)
+node_modules/
+jspm_packages/
+
+# Local environment variables / secrets
+.env
+.env.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore IDE configurations
+.vscode/
+.idea/
